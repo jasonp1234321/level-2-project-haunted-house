@@ -1,0 +1,43 @@
+body{
+    background-color: gray;
+    color: white;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("/header.jpg");
+    margin: 0;
+    height: 100px;
+}
+#home{
+    color: white;
+  }
+.flex-container {
+    display: flex;
+}
+.main{
+    background-color: navy;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2% ;
+}
+.place{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#choice{
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2% ;
+    width: 20%;
+}
